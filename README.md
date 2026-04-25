@@ -1,4 +1,4 @@
-https://github.com/vsrusakov/sales-bonus
+https://github.com/sldw12/sales-bonus
 
 # Проектная работа "Пряники"
 5 спринт, модуль JS
